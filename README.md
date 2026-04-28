@@ -101,7 +101,7 @@ cloud-cost-analytics-forecasting-system/
 
 ### 1. Clone Repository
 ```
-git clone <your-repo-link>
+git clone https://github.com/sakshamjosh1/cloud-cost-analytics-forecasting-system
 cd cloud-cost-analytics-forecasting-system
 ```
 
